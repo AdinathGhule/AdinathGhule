@@ -35,7 +35,7 @@ The Caesar Cipher is one of the earliest known and simplest ciphers. It is a typ
 ## 🚀Steps to Execute the Program
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-directory> (https://github.com/trupti-K-ghenand/PRODIGY_CS_01)
+   git clone <repository-directory> (https://github.com/Adinathghule/Adinathghule)
    cd <repository-directory>
    ```
 
